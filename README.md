@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kst651124
-- 👀 I’m interested in rust
-- 🌱 I’m currently learning rust
+- 👀 I’m interested in C#, python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me no way
 
